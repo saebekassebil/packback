@@ -1,0 +1,41 @@
+itemtype,itemname,weight,category
+tarp,Tarp,218,sleeping
+sleeping_bag,Sovepose,1210,sleeping
+mattress,Liggeunderlag,750,sleeping
+trekking_poles,Vandrestav,260,misc
+bivy_bag,Bivy-bag,300,sleeping
+inner_vest,Skiundertrøje,200,clothing
+inner_trousers,Skiunderbukser,140,clothing
+fleece_shirt,Fleece,250,clothing
+shirt,Trøje,100,clothing
+woolen_socks,3xUldsokker,170,clothing
+rainjacket,Regnjakke,400,clothing
+raintrousers,Regnbukser,300,clothing
+hiking_trousers,Vandrebukser,,clothing
+lw_shoes,evt. lette sko,260,clothing
+cap,Hue,,clothing
+neck_warmer,Halsedisse,,clothing
+compass,Kompas,,misc
+torch,Pandelampe,,misc
+knife,Kniv,,misc
+food_freezedried,Tørfodder,1000,food
+food_instantcoffee,Tørkaffe,60,food
+food_general,Havregryn,330,food
+food_general,Knækbrød,220,food
+food_general,Tartex,200,food
+food_general,Peanutbutter,340,food
+food_snackbar,Snack-barer,,food
+food_chocolate,Chokolade,250,food
+stove,Trangiasæt,250,cooking
+water,Vand,1000,food
+gas,Gas,440,cooking
+toiletpaper,Toiletpapir,100,misc
+toothbrush,Tandbørste,,misc
+toothpaste,Tandpasta,,misc
+general,Pudseklud til briller,,misc
+towel,Fiberhåndklæde,200,clothing
+general,DNT nøgle,,misc
+lighter,Lighter,,misc
+book,Logbog,,misc
+book,Bog,200,misc
+general,Betalingskort,40,misc
